@@ -8,7 +8,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("My name is Khondakar Mujtaba");
+		System.out.println("My name is Khondakar Marzouq Mujtaba and I go by Marzouq");
 		System.out.println("I like playing video games.");
 		System.out.println("My favorite video games are Uncharted 4 and Freedom Wars");
 		System.out.println("I want to go to UC Berkeley ");
