@@ -12,6 +12,6 @@ public class Main
 		System.out.println("I like playing video games.");
 		System.out.println("My favorite video games are Uncharted 4 and Freedom Wars");
 		System.out.println("I want to go to UC Berkeley ");
-		System.out.println("I want to major in Computer Science and Computer Programming");
+		System.out.println("I am interested in AI.");
 	}
 }
